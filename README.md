@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronomes| Ela-Dela
 - ⚡ Amo gatos e coelhos
 -->
-![](![Uploading image.png…]()
-)
+
 
 
